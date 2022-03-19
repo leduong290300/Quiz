@@ -1,0 +1,348 @@
+{
+  "question": [
+    {
+      "id": 1,
+      "question": "Giải Grand Slam đầu tiên trong năm là giải nào?",
+      "answers": [
+        {
+          "text": "A. Austrlia mở rộng",
+          "correct": true
+        },
+        {
+          "text": "B. Wimbledon",
+          "correct": false
+        },
+        {
+          "text": "C. Roland Garos",
+          "correct": false
+        },
+        {
+          "text": "D. Mỹ mở rộng",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "question": "Cùng với Hà Nội T&T (vô địch V-League 2010), CLB nào của Việt Namtham dự AFC Cup 2011?",
+      "answers": [
+        {
+          "text": "A. Sông Lam Nghệ An",
+          "correct": true
+        },
+        {
+          "text": "B. SHB Đà Nẵng",
+          "correct": false
+        },
+        {
+          "text": "C. Hoàng Anh Gia Lai",
+          "correct": false
+        },
+        {
+          "text": "D. Becamex Bình Dương",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "question": "AFC Asian Cup 2011 được tổ chức tại quốc gia nào?",
+      "answers": [
+        {
+          "text": "A. Hàn Quốc",
+          "correct": false
+        },
+        {
+          "text": "B. Nhật Bản",
+          "correct": false
+        },
+        {
+          "text": "C. Qatar",
+          "correct": true
+        },
+        {
+          "text": "D. Iraq ",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "question": "Đội nào lên ngôi vô địch AFC Asian Cup 2011 tổ chức tại Qatar?",
+      "answers": [
+        {
+          "text": "A. Australia",
+          "correct": false
+        },
+        {
+          "text": "B. Nhật Bản",
+          "correct": true
+        },
+        {
+          "text": "C. Hàn Quốc",
+          "correct": false
+        },
+        {
+          "text": "D. Uzbekistan",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "question": "Ai là nhạc sĩ Việt Nam đầu tiên viết opera với tác phẩm “Cô sao” và sau đó là “Người tạc tượng” ?",
+      "answers": [
+        {
+          "text": "A. Hoàng Vân",
+          "correct": false
+        },
+        {
+          "text": "B. Trần Hoàn",
+          "correct": false
+        },
+        {
+          "text": "C. Trọng Đài",
+          "correct": false
+        },
+        {
+          "text": "D. Đỗ Nhuận",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "question": "Sông Bến Hải và sông Thạch Hãn nằm ở tỉnh nào?",
+      "answers": [
+        {
+          "text": "A. Quảng Bình",
+          "correct": false
+        },
+        {
+          "text": "B. Quảng Ninh",
+          "correct": false
+        },
+        {
+          "text": "C. Quảng Trị",
+          "correct": true
+        },
+        {
+          "text": "D. Quảng ngãi",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "question": "Trong các cây cầu sau, cầu nào là cầu xoay?",
+      "answers": [
+        {
+          "text": "A. Cầu Thanh Trì",
+          "correct": false
+        },
+        {
+          "text": "B. Cầu Thị Nại",
+          "correct": false
+        },
+        {
+          "text": "C. Cầu Cần Thơ",
+          "correct": false
+        },
+        {
+          "text": "D. Cầu Sông Hàn",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "question": "Đại Ngu là quốc hiệu của triều đại nào?",
+      "answers": [
+        {
+          "text": "A. Triều Ngô",
+          "correct": false
+        },
+        {
+          "text": "B. Triều Hồ",
+          "correct": true
+        },
+        {
+          "text": "C. Các chúa Nguyễn",
+          "correct": false
+        },
+        {
+          "text": "D. Nhà Tây Sơn",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "question": "Các vua Hùng đặt quốc hiệu nước ta là gì?",
+      "answers": [
+        {
+          "text": "A. Văn Lang",
+          "correct": true
+        },
+        {
+          "text": "B. Âu Lạc",
+          "correct": false
+        },
+        {
+          "text": "C. Vạn Xuân",
+          "correct": false
+        },
+        {
+          "text": "D. Đại Việt",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "question": "An Dương Vương đặt quốc hiệu nước ta là gì?",
+      "answers": [
+        {
+          "text": "A. Vạn Xuân",
+          "correct": false
+        },
+        {
+          "text": "B. Đại Cồ Việt",
+          "correct": false
+        },
+        {
+          "text": "C. Đại Việt",
+          "correct": false
+        },
+        {
+          "text": "D. Âu Lạc",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "question": "Năm 1010, Lý Thái Tổ đã cho xây dựng điện nào ở trung tâmhoàng thành Thăng Long?",
+      "answers": [
+        {
+          "text": "A. Điện Càn Nguyên",
+          "correct": false
+        },
+        {
+          "text": "B. Điện Kính Thiên",
+          "correct": true
+        },
+        {
+          "text": "C. Điện Càn Chánh",
+          "correct": false
+        },
+        {
+          "text": "D. Điện Càn Thành",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "id": 12,
+      "question": " 'Điêu tàn' là tập thơ đầu tiên của nhà thơ nào?",
+      "answers": [
+        {
+          "text": "A. Anh Thơ",
+          "correct": false
+        },
+        {
+          "text": "B. Thế Lữ",
+          "correct": false
+        },
+        {
+          "text": "C. Bích Khê",
+          "correct": false
+        },
+        {
+          "text": "D. Chế Lan Viên",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "id": 13,
+      "question": "Hội nghị chống biến đổi khí hậu lần thứ 17- 2011 được tổ chức tại nước nào?",
+      "answers": [
+        {
+          "text": "A. Đan Mạch (2011)",
+          "correct": false
+        },
+        {
+          "text": "B. Mexico (2010)",
+          "correct": false
+        },
+        {
+          "text": "C. Quatar và Hàn Quốc (2012)",
+          "correct": false
+        },
+        {
+          "text": "D. Nam Phi (2011)",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "id": 14,
+      "question": "Ai được bầu làm Tổng bí thư Đảng cộng sản Việt Nam tại Đại hội XI?",
+      "answers": [
+        {
+          "text": "A. Nguyễn Sinh Hùng",
+          "correct": false
+        },
+        {
+          "text": "B. Trương Tấn Sang",
+          "correct": false
+        },
+        {
+          "text": "C. Nguyễn Tấn Dũng",
+          "correct": false
+        },
+        {
+          "text": "D. Nguyễn Phú Trọng",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "id": 15,
+      "question": "Tỉnh nào đăng cai tổ chức Năm du lịch Quốc gia 2012?",
+      "answers": [
+        {
+          "text": "A. Hải Phòng",
+          "correct": false
+        },
+        {
+          "text": "B. Thừa Thiên Huế",
+          "correct": true
+        },
+        {
+          "text": "C. Lâm Đồng",
+          "correct": false
+        },
+        {
+          "text": "D. Thanh Hóa",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
